@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Shapes", "ConsoleApp_Shapes\ConsoleApp_Shapes.csproj", "{11F19C89-FCDB-462E-982F-791F7CA9F388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesRecognizer", "ShapesRecognizer\ShapesRecognizer.csproj", "{24ED7133-592B-4E47-97B6-9CD48B4CFE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgImageCreator", "SvgImageCreator\SvgImageCreator.csproj", "{C8BCDA8E-8BE4-4BA9-AB0E-18813B61C184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeGenerator", "ShapeGenerator\ShapeGenerator.csproj", "{3EE5ACF0-1340-4B2A-A224-8A028FDEBFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesRecognizerTests", "ShapesRecognizerTests\ShapesRecognizerTests.csproj", "{F488244C-C9AC-469B-8077-BA3C6F9586FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F19C89-FCDB-462E-982F-791F7CA9F388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F19C89-FCDB-462E-982F-791F7CA9F388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F19C89-FCDB-462E-982F-791F7CA9F388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F19C89-FCDB-462E-982F-791F7CA9F388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24ED7133-592B-4E47-97B6-9CD48B4CFE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24ED7133-592B-4E47-97B6-9CD48B4CFE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24ED7133-592B-4E47-97B6-9CD48B4CFE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24ED7133-592B-4E47-97B6-9CD48B4CFE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BCDA8E-8BE4-4BA9-AB0E-18813B61C184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BCDA8E-8BE4-4BA9-AB0E-18813B61C184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BCDA8E-8BE4-4BA9-AB0E-18813B61C184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BCDA8E-8BE4-4BA9-AB0E-18813B61C184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE5ACF0-1340-4B2A-A224-8A028FDEBFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE5ACF0-1340-4B2A-A224-8A028FDEBFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE5ACF0-1340-4B2A-A224-8A028FDEBFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE5ACF0-1340-4B2A-A224-8A028FDEBFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F488244C-C9AC-469B-8077-BA3C6F9586FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F488244C-C9AC-469B-8077-BA3C6F9586FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F488244C-C9AC-469B-8077-BA3C6F9586FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F488244C-C9AC-469B-8077-BA3C6F9586FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
